@@ -1,8 +1,6 @@
 asyncio
 logging
 aiogram
-Bot
-Dispatcher
 Message
 CallbackQuery
 InlineKeyboardMarkup
