@@ -1,5 +1,4 @@
 asyncio
-os
 logging
 aiogram
 Bot
