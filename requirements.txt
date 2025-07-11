@@ -1,9 +1,2 @@
-asyncio
-logging
-aiogram
-Message
-CallbackQuery
-InlineKeyboardMarkup
-InlineKeyboardButton
-Command
-load_dotenv
+aiogram==3.4.1
+python-dotenv==1.0.1
